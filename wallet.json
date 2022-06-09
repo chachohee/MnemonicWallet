@@ -1,0 +1,10 @@
+{"encSeed":{"encStr":"zkjrypBCixf+CHgQXG5DxVTwJMqq+W+Z/gy4T70vEp0kIPypwn0BmZtOcAWS0WVRHS0+9GHRHWhhlaFu9L4XuedaoJbXd7QDPMePH51h29I6BjXDBWBNxBZC5RoROHchTLIuEhezJoZJlVBC1ziZNp5ju5q4Rkxxylb4BPtpjR0wmyWeFJNPqw==",
+    "nonce":"aundYwA2Zog62vnPSxRGJrKpzRPwNRV2"},
+    "encHdRootPriv":{"encStr":"bMg4LClugeBho6OUg7eHxC0yXEZI6q4j4Shmi9v7nbS0ZbJnend1r24a6x339QJk/OlxPLlDTKhaqZv2NkE9N47HXSZSBa05cn+fjaM5/0wNQDMPkNrRVzZ9eHchtDSlXdrKUzZTNOFwShUBHQZliqU0T4sqa+gg21Q7OKrx8A==",
+        "nonce":"fdenEIMxoJWObZo8rJYvYXI8PKoYXAuC"},
+        "addresses":["9547ceb54116bbd1e26208d40447208022589eb8"],
+        "encPrivKeys":{"9547ceb54116bbd1e26208d40447208022589eb8":{"key":"LWntX+NdhO4GzXNF8/1w8yKPupMb3RTDOcsfgeFvgS/xdrEkCKDu943RafhzC38x",
+            "nonce":"ViMB9nD1tEFEfCXIykxashZaXpRUx1pG"}},
+            "hdPathString":"m/0'/0'/0'",
+            "salt":"3IR9m0Zs246mrRrwtT8tLnxbstcNvI4fWuLxuJ3QZPQ=",
+            "hdIndex":1,"version":3}
